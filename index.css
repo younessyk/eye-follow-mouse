@@ -1,0 +1,56 @@
+HTML CSS JSResult
+body{
+  background-color: #b6d4aa;
+  margin: 0;
+}
+.eye{
+  background-color:#FFF;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  position:absolute;
+  left:50%;
+  margin-left: -100px;
+  top:50%;
+  margin-top:-100px;
+  overflow: hidden;
+  
+  
+}
+.pupil{
+  background-color:#000;
+  width:50px;
+  height: 50px;
+  border-radius:50%;
+  position:absolute;
+  left:50%;
+  top:50%;
+  margin-left: -25px;
+  margin-top:-25px;
+}
+
+body{
+    background-color: rgb(85, 21, 21);
+}
+.eye1{
+  margin-left: -225px;
+}
+.eye2{
+  margin-left:25px;
+}
+
+.title{
+    text-align: center;
+    color: #FFF;
+    margin-top: 20%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    letter-spacing: 5px;
+}
+h5{
+    text-align: center;
+    color: #FFF;
+    margin-top: 40%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
